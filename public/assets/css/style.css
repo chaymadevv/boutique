@@ -1,0 +1,42 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: 1px solid black;
+}
+
+header{
+  display: flex;
+  justify-content: space-between;
+  background-color: rgba(128, 128, 128, 0.1);
+  font-family: 'Courier New', Courier, monospace;
+  height: ;
+}
+
+.logo{
+  display: flex;
+}
+
+ .logotitle{
+  color: #F16EDB;
+ }
+
+ h1{
+  color: black;
+ }
+
+ h2{
+  color:#53D2F6 ;
+ }
+
+ h3{
+  color: white;
+  background-color: #53D2F6;
+ }
+
+.two{
+  color: white;
+  background-color: #53D2F6;
+  height: ;
+  
+}
