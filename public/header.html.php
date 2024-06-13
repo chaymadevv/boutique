@@ -19,17 +19,20 @@
           <p>Vente en ligne. Tendance et Déco </p>
         </div>
       </div>
+      
       <div class= logotitle2>
       <h2>Besoin d'aide?</h2>
-      <img src="public\assets\img\aide.png" alt="">
-</div>
+      <div class="infoimg">
+        <p class= "infotext">0800 10 28 10</p>
+        <img src="public\assets\img\aide.png" alt="">
+      </div>
+      
+    </div>
 <div class= logotitle3>
   <h3>Mon compte</h3>
   <div class= two>
+    <img src="public\assets\img\article.png" alt="">
     <p>article(s) dans votre panier.</p>
 </div>
-
-</div>
-
-</div>
-    </header>
+</header>
+<?php include __DIR__ . "/nav.html.php" ?>

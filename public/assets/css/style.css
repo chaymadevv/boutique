@@ -9,8 +9,7 @@ header{
   display: flex;
   justify-content: space-between;
   background-color: rgba(128, 128, 128, 0.1);
-  font-family: 'Courier New', Courier, monospace;
-  height: ;
+  font-family: 'Courier New', Courier,monospace;
 }
 
 .logo{
@@ -36,7 +35,19 @@ header{
 
 .two{
   color: white;
-  background-color: #53D2F6;
-  height: ;
-  
+  background-color: #53D2F6; 
+}
+
+.infoimg{
+  position: relative;
+}
+
+.infotext{
+  position: absolute;
+  left: 35px;
+  top: 4px;
+}
+
+.liste{
+  list-style-type: none;
 }
